@@ -1,0 +1,5 @@
+main:
+  - name: Chez moi (Home)
+    url: /
+  - name: Postes
+    url: /posts/

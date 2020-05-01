@@ -1,0 +1,6 @@
+li.active a {
+    color: red;
+}
+a {
+    color: black;
+}

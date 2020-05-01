@@ -1,0 +1,5 @@
+main:
+  - name: 家 (Home)
+    url: /
+  - name: 郵便 (Posts)
+    url: /posts/
